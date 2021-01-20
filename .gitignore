@@ -132,3 +132,4 @@ dmypy.json
 *.sqlite
 geo-metadata.geojson
 snippets.py
+passwords.txt
